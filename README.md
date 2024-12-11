@@ -44,7 +44,7 @@ Interactive dashboards and pivot tables are included to make it easy to explore 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/super-store-analysis.git
+   git clone https://github.com/Sydney205/Super-store.git
    ```
 
 2. Open the Excel files in the respective tools to explore the data.
