@@ -54,15 +54,10 @@ Interactive dashboards and pivot tables are included to make it easy to explore 
 Below are some screenshots of the dashboards included in the project:
 
 ### Sales & Profit Dashboard
-![Sales & Profit Dashboard](path/to/sales_profit_dashboard_screenshot.png)
+![Sales & Profit Dashboard](/Sales & Profit Dashboard.PNG)
 
 ### Shipping Dashboard
 ![Shipping Dashboard](path/to/shipping_dashboard_screenshot.png)
-
-### Pivot Table Analysis
-![Pivot Tables](path/to/pivot_table_screenshot.png)
-
-(Replace `path/to/...` with the actual paths or upload the images to your repository.)
 
 ## Contributing
 
