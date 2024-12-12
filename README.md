@@ -1,7 +1,5 @@
 # Super Store Data Analysis Project
 
-Welcome to the **Super Store Data Analysis Project** repository! 📊
-
 This project involves analyzing sales, shipping, and profitability data from a fictional superstore. The insights derived from this analysis aim to help optimize operations, identify profitable areas, and understand customer trends.
 
 ## Table of Contents
@@ -11,7 +9,6 @@ This project involves analyzing sales, shipping, and profitability data from a f
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -34,49 +31,15 @@ Interactive dashboards and pivot tables are included to make it easy to explore 
 
 - **Microsoft Excel**: Data cleaning, pivot tables, and dashboards.
 
-## Getting Started
-
-### Prerequisites
-
-- Microsoft Excel (2016 or later recommended).
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sydney205/Super-store.git
-   ```
-
-2. Open the Excel files in the respective tools to explore the data.
-
 ## Screenshots
 
 Below are some screenshots of the dashboards included in the project:
 
 ### Sales & Profit Dashboard
-[Sales & Profit Dashboard.PNG](https://github.com/Sydney205/Super-store/blob/main/Sales%20%26%20Profit%20Dashboard.PNG)
+![Sales & Profit Dashboard.PNG](https://github.com/Sydney205/Super-store/blob/main/Sales%20%26%20Profit%20Dashboard.PNG)
 
 ### Shipping Dashboard
-![Shipping Dashboard](path/to/shipping_dashboard_screenshot.png)
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve the project:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch-name
-   ```
-5. Open a pull request.
+![Shipping Dashboard](https://github.com/Sydney205/Super-store/blob/main/Shipping%20Dashboard.PNG)
 
 ## License
 
